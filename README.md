@@ -36,8 +36,8 @@ No external dependencies needed! Run with native Node.js:
 
 ```bash
 # Clone the repository
-git clone https://github.com/sktoufeeqahamed/amul-website.git
-cd amul-website
+git clone https://github.com/sktoufeeqahamed/newcool-amul3rd.git
+cd newcool-amul3rd
 
 # Start the local server
 npm start
